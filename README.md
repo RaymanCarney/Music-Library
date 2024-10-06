@@ -1,4 +1,4 @@
-# # **Music-Library**
+# **Music-Library**
 
 ## Description
 This is a Music Tour Libary I used to convert to a Full-Stack Project. It has TypeScript, JavaScript, and compiling for both.
